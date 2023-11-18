@@ -1,43 +1,104 @@
 <h1 align="center">Hi 👋, I'm Kartik Parmar</h1>
 <h3 align="center">Passionate Developer with Expertise in Python, Django, AI, ML, and AWS from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikinfynno&label=Profile%20views&color=0e75b6&style=flat" alt="kartikinfynno" /> </p>
+---
+<h5> Tools, languages, and other things that I like to work with.</h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikinfynno" alt="kartikinfynno" /></a> </p>
+<table>
+  <tr>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/1.svg" width="48" height="48" alt="NodeJs" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/2.svg" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/3.svg" width="48" height="48" alt="ReactJs" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="/images/8.svg" width="48" height="48" alt="Laravel" />
+      </a>
+      <br>MySql
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/9.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Postgresql
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/14.svg" width="48" height="48" alt="SaaS" />
+      </a>
+      <br>mongoDB
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/11.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/4.png" width="48" height="48" alt="Postgresql" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/5.svg" width="48" height="48" alt="MySql" />
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/10.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/6.svg" width="48" height="48" alt="API" />
+      </a>
+      <br>Firebase
+    </td>
+   <td align="center" width="134">
+      <a href="#">
+        <img src="./images/7.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/13.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="134">
+      <a href="#">
+        <img src="./images/15.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>Nginx
+    </td>
+  </tr>
+</table>
 
-- 🌱 I’m currently learning **FastAPI**
-
-- 💬 Ask me about **Python, AWS, GCP**
-
-- 📫 How to reach me **kartik.infynno@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartikindian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikindian" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_kartik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_kartik" height="30" width="40" /></a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=kartikinfynno&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikinfynno&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=kartikinfynno&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <img src ="https://github-profile-trophy.vercel.app/?username=kartikinfynno&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikinfynno&show_icons=true&locale=en&layout=compact" alt="kartikinfynno" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikinfynno&show_icons=true&locale=en" alt="kartikinfynno" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikinfynno&" alt="kartikinfynno" /></p>
